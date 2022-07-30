@@ -1,4 +1,4 @@
-#Hi, There I'm Bayu-x3
+#Hi, There 👋 I'm Bayu-x3
 I like learning about IT and programming languages
 That is: Php, shell, Html
 
@@ -16,5 +16,5 @@ That is: Php, shell, Html
 	- 😄 Pronouns: He/Him </br>
 	- ⚡ Fun fact: Idk </br>
 	</details>
-<p>
+</p>
 	
