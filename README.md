@@ -1,6 +1,6 @@
 <p>
 
-## My Sosmed
+## Sosmed
 <center>
     <a href="https://t.me/Bayu1505"><img src="https://img.shields.io/badge/telegram-Bayu15-red?style=red&logo=telegram"></a>&nbsp;
     <a href="https://www.facebook.com/bayy.gns.3"><img src="https://img.shields.io/badge/facebook-Bayu%20Candra%20ID-blue?style=blue&logo=facebook"></a>&nbsp;
