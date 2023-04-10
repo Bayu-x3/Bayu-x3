@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Programming-Languange**
 
-- 📫 Contact Me **x3@bayucndra.my.id**
+- 📫 Contact Me **Ga ada**
 
 - 📄 Know about my experiences [......](......)
 
