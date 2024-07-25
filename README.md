@@ -3,9 +3,7 @@
 
 - 🌱 I’m currently learning **Programming-Languange**
 
-- 📫 Contact Me **Ga ada**
-
-- 📄 Know about my experiences [......](......)
+- 📫 Contact Me **bayucandra0507@gmail.com**
 
 - ⚡ Fun fact **Gatau**
 
