@@ -5,7 +5,7 @@
 
 - 📫 Contact Me **bayucandra0507@gmail.com**
 
-- ⚡ Fun fact **Gatau**
+- ⚡ Fun fact **Gak Suka Design**
 
 ## 🌐 Socials:
 ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bayucndra__) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@bayu1505)
