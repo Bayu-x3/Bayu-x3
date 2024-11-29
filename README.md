@@ -1,27 +1,48 @@
-# 💫 About Me:
-- 🔭 I’m currently working on **School**
+<h2 align="left">Hi 👋! My name is Bayu Candra Yudistira and I'm a Junior Web Developer, from Indonesia.</h2>
 
-- 🌱 I’m currently learning **Programming-Languange**
+###
 
-- 📫 Contact Me **bayucandra0507@gmail.com**
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bayu-x3&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bayu-x3&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-- ⚡ Fun fact **Gak Suka Design**
+###
 
-## 🌐 Socials:
-![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bayucndra__) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@bayu1505)
+<img align="right" height="180" src="https://media.tenor.com/St9dveMzIYwAAAAC/itachi.gif"  />
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Bayu-x3&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Bayu-x3&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bayu-x3&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+###
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Bayu-x3&limit=5&theme=dracula&combine_all_yearly_contributions=true)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+</div>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+###
 
----
-[![](https://visitcount.itsvg.in/api?id=Bayu-x3&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="left">
+  <a href="https://instagram.com/bayucndra__" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="bayucandra0507@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/bayu-candra-yudistira-53a54131b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Bayu-x3/Bayu-x3/output/snake.svg" alt="Snake animation" />
+
+###
